@@ -26,9 +26,11 @@ This project analyzes the financial performance of 10 major Indian public and pr
 - Profit Growth
 - Earnings Per Share (EPS)
 
-## Key Findings
+## Dashboard Preview
 
 <img width="932" height="522" alt="image" src="https://github.com/user-attachments/assets/7cda1944-789b-46c5-860f-2489353a213d" />
+
+## Key Findings
 
 - IDFC Bank recorded the highest Borrowings-to-Asset Ratio (1.08) among all banks analysed, indicating significantly higher leverage and reliance on debt financing compared to peers.
 - Private sector banks demonstrated consistently higher EPS growth than public sector banks across the 2021–2025 period.
