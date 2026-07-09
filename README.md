@@ -6,9 +6,11 @@ This project analyzes the financial performance of 10 major Indian public and pr
 
 ## Dataset
 
-- Annual financial statement data of 10 Indian banks
-- Time Period: 2021–2025
-- Dashboard developed using Microsoft Power BI
+- **Sources:**   Annual reports of selected banks, Economic Times report, Moneycontrol and Screener.in
+- **Coverage:** 10 major Indian public and private sector banks
+- **Time Period:** 2021–2025
+- **Metrics collected:** Assets, deposits, advances, borrowings, 
+  net profit, EPS
 
 ## Key Features
 
@@ -26,8 +28,12 @@ This project analyzes the financial performance of 10 major Indian public and pr
 
 ## Key Findings
 
-- IDFC Bank exhibited comparatively higher Borrowings-to-Asset and Credit–Deposit ratios, indicating relatively higher leverage and lending exposure.
-- The dashboard highlights differences in profitability and balance-sheet strength across major Indian banks.
+<img width="932" height="522" alt="image" src="https://github.com/user-attachments/assets/7cda1944-789b-46c5-860f-2489353a213d" />
+
+- IDFC Bank recorded the highest Borrowings-to-Asset Ratio (1.08) among all banks analysed, indicating significantly higher leverage and reliance on debt financing compared to peers.
+- Private sector banks demonstrated consistently higher EPS growth than public sector banks across the 2021–2025 period.
+- HDFC, Axis Bank, and ICICI consistently ranked among the strongest private banks in terms of profitability and earnings growth.
+- SBI held the largest asset base among all banks analysed.
 
 ## Technologies
 
@@ -39,6 +45,5 @@ This project analyzes the financial performance of 10 major Indian public and pr
 
 - `Indian_Banking_Dashboard.pbix` – Power BI dashboard
 - `Dashboard_Screenshot_1.png` – Dashboard overview
-- `Dashboard_Screenshot_2.png` – Financial ratio analysis
-- `Dashboard_Screenshot_3.png` – Bank comparison dashboard
-- `Project_Report.pdf` – Project documentation (optional)
+- `Dashboard_Screenshot_2.png` – Bank comparison dashboard
+- `Project_Report.pdf` – Project documentation 
